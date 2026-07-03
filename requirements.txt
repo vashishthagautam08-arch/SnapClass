@@ -1,3 +1,4 @@
+streamlit
 
 #Utilities
 numpy
@@ -18,4 +19,7 @@ segno
 pillow
 
 
-streamlit
+
+
+librosa
+resemblyzer
